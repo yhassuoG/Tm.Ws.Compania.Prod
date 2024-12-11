@@ -1,0 +1,6 @@
+@Tm.Ws.Maestro.Usuario_HostAddress = http://localhost:5009
+
+GET {{Tm.Ws.Maestro.Usuario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

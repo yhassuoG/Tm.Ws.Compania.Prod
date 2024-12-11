@@ -1,0 +1,6 @@
+@Tm.Ws.Compania.Prod_HostAddress = http://localhost:5192
+
+GET {{Tm.Ws.Compania.Prod_HostAddress}}/ControllerCompany/
+Accept: application/json
+
+###
